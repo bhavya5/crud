@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>My Webpage</title>
+</head>
+<body>
+<center>
+<h1> Hello </h1>
+<h2> Student Details </h2>
+<p> Crud Operations on Student Detials </p>
+<a href ="">Create</a>
+<a href ="">Retrieve</a>
+<a href ="">Update</a>
+<a href ="">Delete</a>
+</center>
+</body>
+</html>
